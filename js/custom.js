@@ -33,7 +33,7 @@
 
   // shake effect every 2s 
 
-const iconImages = document.querySelectorAll('.social-icon-item .social-icon-link img');
+const iconImages = document.querySelectorAll('.Brand-icon-item img');
 
 // Ensure base styles are clean and transition-ready
 iconImages.forEach((img) => {
