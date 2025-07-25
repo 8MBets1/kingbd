@@ -111,7 +111,7 @@ containers.forEach(container => {
     "8MPlay LiveChat": "https://direct.lc.chat/15562614/",
     "MamuBets LiveChat": "https://direct.lc.chat/16961697/",
     "Wicket71 LiveChat": "https://direct.lc.chat/18160839/",
-    "8MPlay WhatsApp": "https://www.8mbets.net/en-bd?aff=caa0ffee17&signup=1",
+    "8MPlay WhatsApp": "https://wa.link/8rb44r",
     "MamuBets WhatsApp": "https://api.whatsapp.com/send?phone=13435193419",
     "Wicket71 WhatsApp": "https://vrnvw.wicket71bd.com/register.html"
   };
