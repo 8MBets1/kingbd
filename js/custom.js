@@ -113,7 +113,7 @@ containers.forEach(container => {
     "Wicket71 LiveChat": "https://direct.lc.chat/18160839/",
     "8MPlay WhatsApp": "https://wa.link/8rb44r",
     "MamuBets WhatsApp": "https://api.whatsapp.com/send?phone=13435193419",
-    "Wicket71 WhatsApp": "https://vrnvw.wicket71bd.com/register.html"
+    "Wicket71 WhatsApp": "https://wa.me/17788527289"
   };
 
   // Apply click event to all .CBChild elements in all tabs
