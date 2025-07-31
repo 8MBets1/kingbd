@@ -85,7 +85,7 @@ setInterval(() => {
 
 
 const links = [
-  { name: "8MPlay - তে খেলুন", url: "https://www.8mbets.net/en-bd?aff=caa0ffee17&signup=1" },
+  { name: "8MPlay - তে খেলুন", url: "https://8mplay.in/bn-bd?aff=caa0ffee17&signup=1" },
   { name: "MamuBet - এ খেলুন", url: "https://www.mamubaji9.com/bd-bd?aff=af53facdaa&signup=1" },
   { name: "Wicket71 - এ খেলুন", url: "https://vrnvw.wicket71bd.com/register.html" }
 ];
