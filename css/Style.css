@@ -1197,6 +1197,11 @@ margin-right: 1rem;
   .Brand-icon-item a {
     font-size: 12px;
   }
+  .main-logo{
+    width: 100px;
+    scale: 2;
+    margin-left: 50px;
+  }
 }
 
 @media screen and (min-width: 769px) and (max-width: 1023px) {
@@ -1207,6 +1212,9 @@ margin-right: 1rem;
     width: 4.2rem;
     height: 4.2rem;
   }
+    .TGames-links a{
+  font-size: 12px;
+}
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1440px) {
@@ -1217,6 +1225,17 @@ margin-right: 1rem;
     width: 5rem;
     height: 5rem;
   }
+    .main-logo{
+    width: 80px;
+    scale: 3;
+    margin-left: 50px;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link{
+    padding: 0;
+  }
+  .TGames-links a{
+  font-size: 13px;
+}
 }
 
 @media screen and (min-width: 1441px) {
@@ -1228,5 +1247,7 @@ margin-right: 1rem;
   .Brand-icon{
   margin-bottom: 30px;
 }
+.TGames-links a{
+  font-size: 14px;
 }
-
+}
